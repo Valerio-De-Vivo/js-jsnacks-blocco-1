@@ -10,7 +10,6 @@
 // console.log(somma);
 
 
-
 // WHILE ___________________
 
 var i=0;
